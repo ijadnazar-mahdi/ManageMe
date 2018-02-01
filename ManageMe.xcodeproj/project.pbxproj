@@ -13,6 +13,7 @@
 		CF69D15A202238470071637E /* ManageMe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF69D158202238470071637E /* ManageMe.xcdatamodeld */; };
 		CF69D15C202238470071637E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF69D15B202238470071637E /* Assets.xcassets */; };
 		CF69D15F202238470071637E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF69D15D202238470071637E /* LaunchScreen.storyboard */; };
+		CF69D167202338740071637E /* TasksCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF69D166202338740071637E /* TasksCenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CF69D15B202238470071637E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF69D15E202238470071637E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF69D160202238480071637E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF69D166202338740071637E /* TasksCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksCenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				CF69D151202238470071637E /* AppDelegate.swift */,
 				CF69D153202238470071637E /* ViewController.swift */,
+				CF69D166202338740071637E /* TasksCenter.swift */,
 				CF69D155202238470071637E /* Main.storyboard */,
 				CF69D15B202238470071637E /* Assets.xcassets */,
 				CF69D15D202238470071637E /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				CF69D154202238470071637E /* ViewController.swift in Sources */,
 				CF69D15A202238470071637E /* ManageMe.xcdatamodeld in Sources */,
 				CF69D152202238470071637E /* AppDelegate.swift in Sources */,
+				CF69D167202338740071637E /* TasksCenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
